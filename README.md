@@ -5,4 +5,4 @@ run it by `docker-compose up`.
 
 open your browser at `localhost:5000` to view the results.
 
-tested on ubuntu-1604 environment. 
+tested on linux/ubuntu-16.04 and macOS 10.14 environments.

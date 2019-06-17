@@ -1,5 +1,5 @@
 # django-nginx-docker
-a basic django server and an nginx proxy running on a docker-compose environment
+a basic django server + nginx proxy running on docker-compose environment
 
 run it by `docker-compose up`.
 
